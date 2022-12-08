@@ -21,5 +21,3 @@ end
 #and returns the first five words and then a '...' 
 #if there are more than that.
 
-#A method called count_words that takes a string as an argument and 
-#returns the number of words in that string.
